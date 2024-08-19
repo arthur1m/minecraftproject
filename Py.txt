@@ -1,4 +1,0 @@
-blocks.place(LAVA, pos(5, 20, 0))
-blocks.place(WATER, pos(5, 135, 0))
-loops.pause(100)
-blocks.place(AIR, pos(5, 135, 0))
